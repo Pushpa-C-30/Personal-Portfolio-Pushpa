@@ -3,6 +3,7 @@
 A **personal portfolio website** built to showcase my journey as a **Full Stack Developer**.
 This website highlights my **technical skills, academic projects, education, internship experience, and professional profile**, developed using modern web technologies with a clean and responsive **Dark & Purple-themed design**.
 
+
 🔗 **Live Portfolio:** https://Pushpa-C-30.github.io/Personal-Portfolio-Pushpa/
 
 💻 **GitHub Repository:** https://github.com/Pushpa-C-30/Personal-Portfolio-Pushpa
