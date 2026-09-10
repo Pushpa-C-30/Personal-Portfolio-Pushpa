@@ -15,8 +15,9 @@ This is my **personal portfolio website**, created to represent my skills, exper
 
 The portfolio is designed with a modern interface, responsive layout, smooth navigation, and professional sections that provide an overview of my technical and academic background.
 
-🧱 **Status:** Deployed and Live
-🎯 **Purpose:** Professional Portfolio & Career Showcase
+ **Status:** Deployed and Live
+
+ **Purpose:** Professional Portfolio & Career Showcase
 
 ---
 
@@ -52,17 +53,29 @@ The portfolio is designed with a modern interface, responsive layout, smooth nav
 ## 🎨 Features
 
 ✅ Modern and responsive portfolio design
+
 ✅ Dark-themed professional user interface
+
 ✅ Smooth scrolling and interactive navigation
+
 ✅ Responsive layout for different screen sizes
+
 ✅ About Me section
+
 ✅ Education section
+
 ✅ Technical Skills section
+
 ✅ Projects showcase
+
 ✅ Internship Experience section
+
 ✅ Resume download option
+
 ✅ Contact section
+
 ✅ EmailJS-powered contact form
+
 ✅ Professional social media links
 
 ---
@@ -72,10 +85,15 @@ The portfolio is designed with a modern interface, responsive layout, smooth nav
 ## 📬 Contact
 
 **Name:** Pushpa C
+
 **Role:** Full Stack Developer
+
 **Location:** Bangalore, Karnataka, India
+
 **Email:** pushpac53643@gmail.com
+
 **LinkedIn:** https://linkedin.com/in/pushpa-c-a73393324
+
 **GitHub:** https://github.com/Pushpa-C-30
 
 ---
